@@ -1,4 +1,31 @@
-.inside-div {
+.flex-container{
+    display: flex;
+    background: orange;
+}
+
+.flex1{
+    width: 200px;
     background: fuchsia;
 }
 
+.flex2{
+    width: 200px;
+    height: 200px;
+    background: fuchsia;
+}
+
+.flex3{
+    height: 200px;
+    background: fuchsia;
+}
+
+.flex4{
+    width: 150px;
+    background: fuchsia;
+}
+
+.flex5{
+    width: 150px;
+    height: 150px;
+    background: fuchsia;
+}
