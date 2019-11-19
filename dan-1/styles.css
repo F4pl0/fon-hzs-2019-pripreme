@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .flex-container{
     display: flex;
     background: orange;
@@ -29,3 +30,8 @@
     height: 150px;
     background: fuchsia;
 }
+=======
+.inside-div {
+  background: fuchsia;
+}
+>>>>>>> df847d98a858c53b7746473f11626305c03c4eae
