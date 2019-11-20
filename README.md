@@ -15,3 +15,9 @@ Kod je organizovan po danima.
 * Komunikacija Client-Server, Requestovi
 * PHP
 * MVC Arhitektura u PHP-u
+
+## DAN 3 (20-11-2019)
+#### Oblasti
+* XAMPP
+* Apache
+* MySQL
